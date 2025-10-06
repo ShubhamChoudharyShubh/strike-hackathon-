@@ -9,8 +9,7 @@ This project reimagines a modern learning platform inspired by **[Coder Army](ht
 
 ### 🚀 Live Demo
 
-👉 [View STRIKE Website](https://your-deployment-link.netlify.app/)
-*(Replace with your actual GitHub Pages / Netlify / Vercel link)*
+👉 [View STRIKE Website](https://strike-hackathon.vercel.app/)
 
 ---
 
@@ -103,7 +102,7 @@ Include your live link and tag **@CoderArmy** or related handles.
 
 **Shubham Choudhary**
 Freelance Web Developer | WordPress & Custom Websites
-🌐 [Portfolio](#) • 💼 [LinkedIn](#) • 🐦 [Twitter](#)
+🌐 [Portfolio](https://shubhamchoudharyshubh.vercel.app/) • 💼 [LinkedIn](https://www.linkedin.com/in/shubham-choudhary-shubh/) • 🐦 [Twitter](https://x.com/Shubham7225)
 
 ---
 
